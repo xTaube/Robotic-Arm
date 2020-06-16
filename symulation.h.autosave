@@ -1,0 +1,13 @@
+#ifndef SYMULATION_H
+#define SYMULATION_H
+
+#include <QGraphicsView>
+
+
+class Symulation : publ
+{
+public:
+    Symulation();
+};
+
+#endif // SYMULATION_H

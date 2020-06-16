@@ -1,0 +1,12 @@
+#ifndef BOX_H
+#define BOX_H
+
+class Box : public QObject, public QGraphicsRect
+{
+    Q_OBJECT
+public:
+    Box() {}
+    
+};
+
+#endif // BOX_H

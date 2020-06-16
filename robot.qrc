@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/robot">
+        <file>chest.png</file>
+        <file>robot_2piece.png</file>
+        <file>robot_base.png</file>
+        <file>Robot_root.png</file>
+        <file>robot_header.png</file>
+        <file>robot_base_blue.png</file>
+        <file>robot_base_green.png</file>
+        <file>robot_base_red.png</file>
+    </qresource>
+</RCC>
