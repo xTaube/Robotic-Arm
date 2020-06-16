@@ -7,7 +7,7 @@
 #include "Chest.h"
 #include "WeightText.h"
 #include "Robot.h"
-#include "BlackBox.h"
+
 
 class Simulation : public QGraphicsView
 {
@@ -16,7 +16,6 @@ public:
     QGraphicsScene *scene;
     Chest *chest;
     QList <Chest*> chests;
-    BlackBox *blackBox;
     WeightText *weightText;
     Robot *robot;
     void sortChests();
